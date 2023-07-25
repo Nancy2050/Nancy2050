@@ -4,7 +4,9 @@
 
 _Soy estudiante de la carrera de ingenieria en sistemas computacionales, me apasiona seguir aprendiendo y trabajar de forma colaborativa con personas enfocadas y responsables_
 
-## Acerca de mis proyectos ⌨️
+## Tecnologias manejadas ⌨️
 
-* Manejo lenguajes basicos de programación como C#, Java, Python.
-* Nociones en programación web manejando php, css, javascript y html con base en el MVC.
+* Basicos de programación como C#, Java, Python.
+* Programación web con php, css, javascript y html con base en el MVC.
+* Net framework.
+* Laravel.
