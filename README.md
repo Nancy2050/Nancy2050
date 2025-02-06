@@ -2,11 +2,14 @@
 
 ## Acerca de mi 🚀
 
-_Soy estudiante de la carrera de ingenieria en sistemas computacionales, me apasiona seguir aprendiendo y trabajar de forma colaborativa con personas enfocadas y responsables_
+_Soy Ingeniera en sistemas computacionales, dedicada al desarrollo web, me apasiona seguir aprendiendo y trabajar de forma colaborativa con personas enfocadas y responsables_
 
 ## Tecnologias manejadas ⌨️
 
-* Basicos de programación como C#, Java, Python.
+* Lenguajes: C#,  Python.
 * Programación web con php, css, javascript y html con base en el MVC.
 * Net framework.
+* Blazor en .NET
 * Laravel.
+* Angular
+* Implementación de módulos con odoo.
